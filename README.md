@@ -1,7 +1,6 @@
                                                      Bem Vindos(as)
                                                                
-Ola,Me chamo Renato, sou desenvolvedor front-end, com javascript e alguns framework, apaixonado por design e arquitetura web. Incluo a minha experiência de vida em organização, apresentação e design do meu trabalho. Estou sempre interessado em um novo desafio. Acredito que dedicação é a chave para o sucesso. 👋
+Ola,Me chamo Renato, Sou um entusiasta da tecnologia em busca de novos desafios na área de desenvolvimento. Atualmente, estou estagiando em TI e desenvolvendo habilidades em diversas áreas, incluindo programação, administração de sistemas, análise de dados . Tenho interesse em trabalhar com bancos de dados e estou em busca de oportunidades para aprimorar minhas habilidades nesta área. Com dedicação e comprometimento, busco crescer profissionalmente e contribuir para o sucesso de projetos em empresas que valorizem o trabalho em equipe e a inovação.
 
 
-Atualmente atuo como freelancer e trilho meu caminho com HTML5 | CSS3 | Javascript | React | Typescript | Git & Github | Sass | NodeJS. 👩‍💻
-
+Sou versátil e comprometido no que faço além de possuir boa comunicação e trabalho em equipe, bom desempenho ao trabalhar com metas e sob pressão.
