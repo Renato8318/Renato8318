@@ -32,16 +32,6 @@
 
 ###
 
-<h2 align="left">Most Used Languages</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=renato-dev&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=codeSTACKr&hide_border=true" height="150" alt="languages graph" />
-</div>
-
-###
-
 <h2 align="left">Redes Sociais</h2>
 
 ###
@@ -54,6 +44,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
+
 
 
 
