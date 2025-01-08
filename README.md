@@ -1,7 +1,7 @@
 <h2 align="center">Bem-vindo(a) ao meu Perfil!</h2>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/9J7ikOYee8GJ3h7V63/giphy.gif" alt="GIF de programação e desenvolvimento" width="400" style="border-radius: 10px; animation: float 3s ease-in-out infinite; margin-bottom: 20px;" />
+  <img src="https://www.w3.org/Icons/WWW/w3c_home" alt="Imagem relacionada a programação" width="400" style="border-radius: 10px; margin-bottom: 20px;" />
 </div>
 
 <p align="center">
