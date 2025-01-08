@@ -1,7 +1,7 @@
 <h2 align="center">Bem-vindo(a) ao meu Perfil!</h2>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" alt="GIF de codificação em ação" width="400" style="border-radius: 10px; animation: float 3s ease-in-out infinite; margin-bottom: 20px;" />
+  <img src="https://media.giphy.com/media/8Q5h2FFn9g5rm/giphy.gif" alt="GIF de codificação e programação" width="400" style="border-radius: 10px; animation: float 3s ease-in-out infinite; margin-bottom: 20px;" />
 </div>
 
 <p align="center">
@@ -43,5 +43,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram logo" />
   </a>
 </div>
+
 
 
