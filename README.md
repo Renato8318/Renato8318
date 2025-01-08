@@ -1,4 +1,8 @@
-<h2 align="center" style="color: #4CAF50;">Sobre Mim</h2>
+<h2 align="center">Bem-vindo(a) ao meu Perfil!</h2>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="GIF de programação" width="400" style="border-radius: 10px; animation: float 3s ease-in-out infinite; margin-bottom: 20px;">
+</div>
 
 <p align="center">
   👋 Olá, me chamo Renato!<br>
@@ -40,4 +44,18 @@
   </a>
 </div>
 
+###
 
+<style>
+  @keyframes float {
+    0% {
+      transform: translateY(0px);
+    }
+    50% {
+      transform: translateY(-10px);
+    }
+    100% {
+      transform: translateY(0px);
+    }
+  }
+</style>
