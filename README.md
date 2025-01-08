@@ -1,7 +1,7 @@
 <h2 align="center">Bem-vindo(a) ao meu Perfil!</h2>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="GIF de programação" width="400" style="border-radius: 10px; animation: float 3s ease-in-out infinite; margin-bottom: 20px;"/>
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="GIF de código rodando" width="400" style="border-radius: 10px; animation: float 3s ease-in-out infinite; margin-bottom: 20px;"/>
 </div>
 
 <p align="center">
@@ -43,6 +43,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
 </div>
-
-<!-- Animação Flutuante Inline -->
-<div style="display:none;"></div>
