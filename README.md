@@ -1,7 +1,7 @@
 <h2 align="center">Bem-vindo(a) ao meu Perfil!</h2>
 
 <div align="center">
-  <img src="LINK_DA_IMAGEM" alt="Homem negro programando em ambiente futurista" width="400" style="border-radius: 10px; animation: float 3s ease-in-out infinite; margin-bottom: 20px;" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="GIF de homem programando em ambiente futurista" width="400" style="border-radius: 10px; animation: float 3s ease-in-out infinite; margin-bottom: 20px;" />
 </div>
 
 <p align="center">
