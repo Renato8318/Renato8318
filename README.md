@@ -9,7 +9,6 @@
 </p>
 
 <p align="center">
-<!-- Emoji animado de dev programando -->
 <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="120" alt="Dev Programando"/>
 </p>
 
@@ -26,11 +25,11 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou Desenvolvedor Front-end com olhar analítico, experiência em suporte técnico, automação e análise de dados.  
+Sou Desenvolvedor Front-end com perfil analítico, experiência em suporte técnico, automação e análise de dados.  
 
-Durante minha trajetória, desenvolvi habilidade para **resolver problemas críticos**, otimizar processos e criar **interfaces modernas que geram impacto real**.  
+Durante minha trajetória, aprimorei a capacidade de **resolver problemas críticos**, otimizar processos e criar **interfaces modernas que geram impacto real**.  
 
-🎯 Meu objetivo é unir **desenvolvimento, automação e dados** para criar soluções eficientes, escaláveis e orientadas a resultados.
+🎯 Meu objetivo é unir **desenvolvimento, automação e dados** para criar soluções eficientes e escaláveis.
 
 ---
 
@@ -59,15 +58,34 @@ Durante minha trajetória, desenvolvi habilidade para **resolver problemas crít
 
 ### 🔹 Veritime  
 Sistema de acompanhamento em tempo real, focado em monitoramento e organização de dados.  
-[Repositório](https://github.com/Renato8318/Veritime)
+[Repositório](https://github.com/Renato8318/Veritime)  
+
+**Linguagens e tecnologias:**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql)  
+
+---
 
 ### 🔹 SessãoPlay  
 Aplicação de streaming integrada à API TMDB, exibindo conteúdo de filmes e séries.  
-[Repositório](https://github.com/Renato8318/SessaoPlay)
+[Repositório](https://github.com/Renato8318/SessaoPlay)  
+
+**Linguagens e tecnologias:**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)  
+![TMDB API](https://img.shields.io/badge/TMDB-000?style=flat-square)  
+
+---
 
 ### 🔹 Amicão  
 Plataforma social para adoção de animais, com foco em experiência do usuário.  
-[Repositório](https://github.com/Renato8318/Amicao)
+[Repositório](https://github.com/Renato8318/Amicao)  
+
+**Linguagens e tecnologias:**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)  
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)  
 
 ---
 
@@ -75,14 +93,14 @@ Plataforma social para adoção de animais, com foco em experiência do usuário
 
 - ⚡ Interfaces modernas, usáveis e performáticas  
 - 🔍 Experiência em resolução de falhas críticas e otimização de processos  
-- 🤖 Automação de processos com Python  
+- 🤖 Automação de tarefas com Python  
 - 📊 Análise de dados para gerar insights estratégicos  
 
 ---
 
 ## 🎯 Objetivo
 
-Unir **desenvolvimento, automação e análise de dados** para criar soluções eficientes, escaláveis e orientadas a resultados.
+Criar soluções **eficientes, escaláveis e orientadas a resultados**, unindo desenvolvimento, automação e análise de dados.
 
 ---
 
