@@ -1,11 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Renato Paiva</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Desenvolvedor+Front-end;Automação+com+Python;Análise+de+Dados;Foco+em+Soluções+Reais"/>
-</p>
-
-<p align="center">
-💻 Front-end • ⚙️ Automação • 📊 Dados
+💻 Desenvolvedor Front-end • ⚙️ Automação com Python • 📊 Análise de Dados  
 </p>
 
 <p align="center">
@@ -21,19 +17,9 @@
 
 ## 🚀 Sobre mim
 
-Sou um Desenvolvedor Front-end com perfil analítico, construído a partir da minha experiência em suporte técnico e análise de dados.
+Sou Desenvolvedor Front-end com perfil analítico, experiência em suporte técnico e forte atuação em automação e análise de dados.  
 
-Durante minha atuação na área de suporte, desenvolvi habilidades sólidas na resolução de problemas críticos, garantindo estabilidade e eficiência em ambientes de alta demanda. Hoje, aplico esse conhecimento no desenvolvimento de interfaces modernas aliadas à automação de processos e análise de dados.
-
-🎯 Meu foco é criar soluções que resolvam problemas reais de negócio com eficiência, clareza e impacto.
-
----
-
-## 🌐 Preview do Portfólio
-
-<p align="center">
-  <img src="LINK_DO_SEU_GIF_AQUI" width="800"/>
-</p>
+Meu foco é criar **soluções funcionais que resolvam problemas reais de negócio**, combinando interfaces modernas com eficiência de processos.
 
 ---
 
@@ -58,48 +44,39 @@ Durante minha atuação na área de suporte, desenvolvi habilidades sólidas na 
 
 ---
 
-## 📂 Soluções Desenvolvidas
+## 📂 Projetos em Destaque
 
 ### 🔹 Veritime  
-Sistema de acompanhamento em tempo real focado em monitoramento e organização de dados.
+Sistema de acompanhamento em tempo real focado em monitoramento e organização de dados.  
+[Repositório](https://github.com/Renato8318/Veritime)
 
 ### 🔹 SessãoPlay  
-Aplicação de streaming integrada à API TMDB com exibição dinâmica de conteúdos.
+Aplicação de streaming integrada à API TMDB com exibição dinâmica de conteúdos.  
+[Repositório](https://github.com/Renato8318/SessaoPlay)
 
 ### 🔹 Amicão  
-Plataforma social para adoção de animais com foco em performance e experiência do usuário.
+Plataforma social para adoção de animais com foco em performance e experiência do usuário.  
+[Repositório](https://github.com/Renato8318/Amicao)
 
 ---
 
 ## 📈 Impacto e Resultados
 
-- ⚡ Desenvolvimento de interfaces focadas em usabilidade e performance  
-- 🔍 Experiência na resolução de falhas críticas em ambiente de suporte  
-- 🤖 Automação de processos com Python, reduzindo tarefas manuais  
-- 📊 Análise de dados para geração de insights estratégicos  
-- 🚀 Projetos desenvolvidos com foco em problemas reais de negócio  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Renato8318&show_icons=true&theme=radical"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renato8318&layout=compact&theme=radical"/>
-</p>
+- ⚡ Interfaces focadas em usabilidade e performance  
+- 🔍 Resolução de falhas críticas e otimização de processos  
+- 🤖 Automação de tarefas com Python  
+- 📊 Análise de dados para insights estratégicos  
 
 ---
 
 ## 🎯 Objetivo
 
-Busco oportunidades onde eu possa unir desenvolvimento, automação e análise de dados para criar soluções eficientes, escaláveis e orientadas a resultados.
+Busco oportunidades para unir **desenvolvimento, automação e análise de dados**, criando soluções eficientes, escaláveis e orientadas a resultados.
 
 ---
 
 ## 📬 Contato
 
 - 💼 LinkedIn: SEU_LINK_LINKEDIN_AQUI  
-- 🌐 Portfólio: https://portfolio-renato-paiva.vercel.app/
-
-
+- 🌐 Portfólio: [portfolio-renato-paiva](https://portfolio-renato-paiva.vercel.app/)
 
