@@ -58,7 +58,7 @@ Durante minha trajetória, aprimorei a capacidade de **resolver problemas críti
 
 ### 🔹 Veritime
 Sistema de acompanhamento em tempo real, focado em monitoramento e organização de dados.  
-[Repositório](https://github.com/Renato8318/Veritime)  
+[Repositório](https://github.com/Renato8318/ProjetoControlePonto)  
 
 **Tecnologias:**  
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
@@ -69,7 +69,7 @@ Sistema de acompanhamento em tempo real, focado em monitoramento e organização
 
 ### 🔹 SessãoPlay
 Aplicação de streaming integrada à API TMDB.  
-[Repositório](https://github.com/Renato8318/SessaoPlay)  
+[Repositório](https://github.com/Renato8318/Netflix-Clone)  
 
 **Tecnologias:**  
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
@@ -80,7 +80,7 @@ Aplicação de streaming integrada à API TMDB.
 
 ### 🔹 Amicão
 Plataforma social para adoção de animais, focada na experiência do usuário.  
-[Repositório](https://github.com/Renato8318/Amicao)  
+[Repositório](https://github.com/Renato8318/AdoteumPet)  
 
 **Tecnologias:**  
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
