@@ -12,7 +12,7 @@
 <a href="https://portfolio-renato-paiva.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfólio-Acessar-181818?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
-<a href="SEU_LINK_LINKEDIN_AQUI">
+<a href="https://www.linkedin.com/in/renato-paiva-developer/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Conectar-181818?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 </p>
@@ -111,5 +111,5 @@ Criar soluções **eficientes, escaláveis e orientadas a resultados**, unindo d
 
 ## 📬 Contato
 
-- 💼 LinkedIn: SEU_LINK_LINKEDIN_AQUI  
+- 💼 LinkedIn: [Renato Paiva](https://www.linkedin.com/in/renato-paiva-developer/)  
 - 🌐 Portfólio: [portfolio-renato-paiva](https://portfolio-renato-paiva.vercel.app/)
