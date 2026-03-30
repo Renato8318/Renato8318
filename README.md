@@ -9,6 +9,11 @@
 </p>
 
 <p align="center">
+<!-- Emoji animado de dev programando -->
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="120" alt="Dev Programando"/>
+</p>
+
+<p align="center">
 <a href="https://portfolio-renato-paiva.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfólio-Acessar-000?style=for-the-badge&logo=vercel">
 </a>
@@ -21,11 +26,11 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou Desenvolvedor Front-end com perfil analítico, experiência em suporte técnico, automação e análise de dados.  
+Sou Desenvolvedor Front-end com olhar analítico, experiência em suporte técnico, automação e análise de dados.  
 
-Durante minha experiência, aprimorei a capacidade de **resolver problemas críticos**, otimizar processos e criar **interfaces modernas que geram impacto real**.  
+Durante minha trajetória, desenvolvi habilidade para **resolver problemas críticos**, otimizar processos e criar **interfaces modernas que geram impacto real**.  
 
-🎯 Meu objetivo é unir **desenvolvimento, automação e dados** para criar soluções eficientes e escaláveis.
+🎯 Meu objetivo é unir **desenvolvimento, automação e dados** para criar soluções eficientes, escaláveis e orientadas a resultados.
 
 ---
 
@@ -53,15 +58,15 @@ Durante minha experiência, aprimorei a capacidade de **resolver problemas crít
 ## 📂 Projetos em Destaque
 
 ### 🔹 Veritime  
-Sistema de acompanhamento em tempo real focado em monitoramento e organização de dados.  
+Sistema de acompanhamento em tempo real, focado em monitoramento e organização de dados.  
 [Repositório](https://github.com/Renato8318/Veritime)
 
 ### 🔹 SessãoPlay  
-Aplicação de streaming integrada à API TMDB.  
+Aplicação de streaming integrada à API TMDB, exibindo conteúdo de filmes e séries.  
 [Repositório](https://github.com/Renato8318/SessaoPlay)
 
 ### 🔹 Amicão  
-Plataforma social para adoção de animais com foco em experiência do usuário.  
+Plataforma social para adoção de animais, com foco em experiência do usuário.  
 [Repositório](https://github.com/Renato8318/Amicao)
 
 ---
@@ -69,7 +74,7 @@ Plataforma social para adoção de animais com foco em experiência do usuário.
 ## 📈 Impacto e Resultados
 
 - ⚡ Interfaces modernas, usáveis e performáticas  
-- 🔍 Resolução de falhas críticas e otimização de processos  
+- 🔍 Experiência em resolução de falhas críticas e otimização de processos  
 - 🤖 Automação de processos com Python  
 - 📊 Análise de dados para gerar insights estratégicos  
 
@@ -77,7 +82,7 @@ Plataforma social para adoção de animais com foco em experiência do usuário.
 
 ## 🎯 Objetivo
 
-Unir desenvolvimento, automação e análise de dados para criar soluções eficientes, escaláveis e orientadas a resultados.
+Unir **desenvolvimento, automação e análise de dados** para criar soluções eficientes, escaláveis e orientadas a resultados.
 
 ---
 
