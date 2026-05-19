@@ -6,9 +6,7 @@ Desenvolvedor Front-end • Planejamento de TI • Power BI • Inteligência de
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end+Developer;Planejamento+de+TI+%7C+MIS;Power+BI+%7C+SQL+%7C+Python;Transformando+dados+em+decisões&center=true&width=650&height=50">
-
-<br>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end+Developer;Planejamento+de+TI+%7C+MIS;Power+BI+%7C+SQL+%7C+Python;Transformando+dados+em+decisões&center=true&width=600&height=50">
 
 🚀 Front-end • 📊 Dashboards • 🤖 Automação • 💡 Inteligência de Dados
 
@@ -80,6 +78,8 @@ Aplicação desenvolvida para simular uma solução real de gestão operacional,
 <img src="https://img.shields.io/badge/Projeto-Online-success?style=for-the-badge"/>
 </a>
 
+Tecnologias:
+
 <p>
 <img src="https://skillicons.dev/icons?i=react,javascript,css"/>
 </p>
@@ -89,6 +89,8 @@ Aplicação desenvolvida para simular uma solução real de gestão operacional,
 ### 🎬 SessãoPlay
 
 Aplicação integrada à API TMDB para exibição dinâmica de filmes e conteúdos através de uma interface moderna e responsiva.
+
+Tecnologias:
 
 <p>
 <img src="https://skillicons.dev/icons?i=javascript,css"/>
@@ -105,37 +107,47 @@ Aplicação web desenvolvida para simular uma plataforma digital de adoção de 
 <img src="https://img.shields.io/badge/Projeto-Online-success?style=for-the-badge"/>
 </a>
 
+Tecnologias:
+
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,javascript"/>
 </p>
 
 ---
 
-## 📊 Estatísticas GitHub
+## 📈 Impacto e Resultados
 
-<div align="center">
+⚡ Desenvolvimento de interfaces modernas e responsivas
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Renato8318&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+🔍 Resolução de falhas críticas
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renato8318&layout=compact&theme=tokyonight"/>
+🤖 Automação de tarefas com Python
 
-</div>
+📊 Dashboards e análise estratégica de dados
+
+🚀 Projetos com foco em problemas reais de negócio
 
 ---
 
-## 🔥 Sequência de contribuições
+## 🎯 Competências
 
-<div align="center">
+🧠 Pensamento Analítico
 
-<img src="https://streak-stats.demolab.com?user=Renato8318&theme=tokyonight"/>
+📊 Tomada de decisão baseada em dados
 
-</div>
+🎯 Visão Estratégica
+
+⚡ Resolução de Problemas
+
+💬 Comunicação Assertiva
+
+🔄 Adaptabilidade
+
+🚀 Aprendizado Contínuo
 
 ---
 
 ## 📬 Contato
-
-<p>
 
 <a href="https://www.linkedin.com/in/renato-paiva-developer/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -148,8 +160,6 @@ Aplicação web desenvolvida para simular uma plataforma digital de adoção de 
 <a href="https://github.com/Renato8318">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
-
-</p>
 
 ---
 
