@@ -6,9 +6,15 @@ Desenvolvedor Front-end • Planejamento de TI • Power BI • Inteligência de
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end+Developer;Planejamento+de+TI+%7C+MIS;Power+BI+%7C+SQL+%7C+Python;Transformando+dados+em+decisões&center=true&width=600&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end+Developer;Planejamento+de+TI+%7C+MIS;Power+BI+%7C+SQL+%7C+Python;Transformando+dados+em+decisões&center=true&width=650&height=50">
+
+<br>
 
 🚀 Front-end • 📊 Dashboards • 🤖 Automação • 💡 Inteligência de Dados
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Renato8318&label=Visualizações&color=2563EB&style=for-the-badge"/>
 
 </div>
 
@@ -45,13 +51,13 @@ Atualmente utilizo tecnologias como **React, JavaScript, SQL, Power BI e Python*
 ### Front-end
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap"/>
 </p>
 
 ### Automação & Dados
 
 <p>
-<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=python"/>
 </p>
 
 <p>
@@ -63,7 +69,7 @@ Atualmente utilizo tecnologias como **React, JavaScript, SQL, Power BI e Python*
 ### Banco de Dados & Ferramentas
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode"/>
 </p>
 
 ---
@@ -78,8 +84,6 @@ Aplicação desenvolvida para simular uma solução real de gestão operacional,
 <img src="https://img.shields.io/badge/Projeto-Online-success?style=for-the-badge"/>
 </a>
 
-Tecnologias:
-
 <p>
 <img src="https://skillicons.dev/icons?i=react,javascript,css"/>
 </p>
@@ -89,8 +93,6 @@ Tecnologias:
 ### 🎬 SessãoPlay
 
 Aplicação integrada à API TMDB para exibição dinâmica de filmes e conteúdos através de uma interface moderna e responsiva.
-
-Tecnologias:
 
 <p>
 <img src="https://skillicons.dev/icons?i=javascript,css"/>
@@ -106,8 +108,6 @@ Aplicação web desenvolvida para simular uma plataforma digital de adoção de 
 <a href="https://adoteum-pet.vercel.app/">
 <img src="https://img.shields.io/badge/Projeto-Online-success?style=for-the-badge"/>
 </a>
-
-Tecnologias:
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,javascript"/>
@@ -149,6 +149,8 @@ Tecnologias:
 
 ## 📬 Contato
 
+<p>
+
 <a href="https://www.linkedin.com/in/renato-paiva-developer/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -160,6 +162,8 @@ Tecnologias:
 <a href="https://github.com/Renato8318">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
+
+</p>
 
 ---
 
