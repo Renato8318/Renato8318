@@ -6,7 +6,9 @@ Desenvolvedor Front-end • Planejamento de TI • Power BI • Inteligência de
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end+Developer;Planejamento+de+TI+%7C+MIS;Power+BI+%7C+SQL+%7C+Python;Transformando+dados+em+decisões&center=true&width=600&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end+Developer;Planejamento+de+TI+%7C+MIS;Power+BI+%7C+SQL+%7C+Python;Transformando+dados+em+decisões&center=true&width=650&height=50">
+
+<br>
 
 🚀 Front-end • 📊 Dashboards • 🤖 Automação • 💡 Inteligência de Dados
 
@@ -78,10 +80,8 @@ Aplicação desenvolvida para simular uma solução real de gestão operacional,
 <img src="https://img.shields.io/badge/Projeto-Online-success?style=for-the-badge"/>
 </a>
 
-Tecnologias:
-
 <p>
-<img src="https://skillicons.dev/icons?i=react,javascript,css" />
+<img src="https://skillicons.dev/icons?i=react,javascript,css"/>
 </p>
 
 ---
@@ -90,10 +90,8 @@ Tecnologias:
 
 Aplicação integrada à API TMDB para exibição dinâmica de filmes e conteúdos através de uma interface moderna e responsiva.
 
-Tecnologias:
-
 <p>
-<img src="https://skillicons.dev/icons?i=javascript,css" />
+<img src="https://skillicons.dev/icons?i=javascript,css"/>
 <img src="https://img.shields.io/badge/TMDB_API-01B4E4?style=for-the-badge&logo=themoviedatabase&logoColor=white"/>
 </p>
 
@@ -107,43 +105,9 @@ Aplicação web desenvolvida para simular uma plataforma digital de adoção de 
 <img src="https://img.shields.io/badge/Projeto-Online-success?style=for-the-badge"/>
 </a>
 
-Tecnologias:
-
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript"/>
 </p>
-
----
-
-## 📈 Impacto e Resultados
-
-⚡ Desenvolvimento de interfaces modernas e responsivas
-
-🔍 Resolução de falhas críticas
-
-🤖 Automação de tarefas com Python
-
-📊 Dashboards e análise estratégica de dados
-
-🚀 Projetos com foco em problemas reais de negócio
-
----
-
-## 🎯 Competências
-
-🧠 Pensamento Analítico
-
-📊 Tomada de decisão baseada em dados
-
-🎯 Visão Estratégica
-
-⚡ Resolução de Problemas
-
-💬 Comunicação Assertiva
-
-🔄 Adaptabilidade
-
-🚀 Aprendizado Contínuo
 
 ---
 
@@ -151,9 +115,9 @@ Tecnologias:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Renato8318&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Renato8318&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renato8318&layout=compact&langs_count=8&theme=radical&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renato8318&layout=compact&theme=tokyonight"/>
 
 </div>
 
@@ -163,17 +127,7 @@ Tecnologias:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Renato8318&theme=radical"/>
-
-</div>
-
----
-
-## 📈 Atividade GitHub
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Renato8318&theme=radical"/>
+<img src="https://streak-stats.demolab.com?user=Renato8318&theme=tokyonight"/>
 
 </div>
 
@@ -181,7 +135,9 @@ Tecnologias:
 
 ## 📬 Contato
 
-<a href="https://www.linkedin.com/in/renato-paiva2022/">
+<p>
+
+<a href="https://www.linkedin.com/in/renato-paiva-developer/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -192,6 +148,8 @@ Tecnologias:
 <a href="https://github.com/Renato8318">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
+
+</p>
 
 ---
 
