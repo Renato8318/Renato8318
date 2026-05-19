@@ -1,6 +1,5 @@
 # 👋 Olá, eu sou o Renato Paiva
 
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end+Developer;TI+Planning+%7C+MIS+%7C+Power+BI;Data+Driven+Mindset&center=true&width=500&height=50">
 </div>
@@ -55,7 +54,7 @@ Atualmente utilizo tecnologias como React, JavaScript, SQL, Power BI e Python pa
 
 ### 🔹 Veritime
 
-Sistema de acompanhamento em tempo real focado em monitoramento operacional e organização de dados.
+Aplicação web desenvolvida para simular uma solução real de gestão operacional, permitindo acompanhamento de registros em tempo real por meio de uma experiência intuitiva, responsiva e orientada à usabilidade.
 
 🔗 Repositório: https://github.com/Renato8318
 
@@ -79,7 +78,7 @@ Tecnologias:
 
 ### 🔹 Amicão
 
-Plataforma social para adoção de animais, focada na experiência do usuário e interação intuitiva.
+Aplicação web desenvolvida para simular uma plataforma digital de adoção de animais, com foco em usabilidade, acessibilidade e experiência do usuário, facilitando a conexão entre pessoas e pets.
 
 🔗 Repositório: https://github.com/Renato8318
 
@@ -117,9 +116,11 @@ Tecnologias:
 
 ## 📬 Contato
 
-💼 LinkedIn: https://www.linkedin.com/in/renato-paiva-developer/
+💼 LinkedIn:
+https://www.linkedin.com/in/renato-paiva-developer/
 
-🌐 Portfólio: https://portfolio-renato-paiva.vercel.app/
+🌐 Portfólio:
+https://portfolio-renato-paiva.vercel.app/
 
-📧 GitHub: https://github.com/Renato8318
-
+📧 GitHub:
+https://github.com/Renato8318
